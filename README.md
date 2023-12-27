@@ -18,4 +18,4 @@ This project aims to provide a platform where users can access various courses a
 
 ## Installation
 No installation is required to use Plan Tours. It's a web-based project accessible directly through your web browser.
-Here's the [Link]() 
+Here's the [Link](https://lux-prajapati-top-course.netlify.app/) 
